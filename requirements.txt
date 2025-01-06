@@ -1,0 +1,6 @@
+--find-links https://download.pytorch.org/whl/cu121
+torch
+numpy
+pandas
+miditok
+tqdm
